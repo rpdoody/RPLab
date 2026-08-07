@@ -4,3 +4,4 @@ st.title("RP Rocket Lab")
 st.write(
     "Moneyline, spreads, totals"
 )
+sidebar
